@@ -1,0 +1,18 @@
+--cpu Cortex-M0
+".\obj\stm32f0xx_it.o"
+".\obj\usart.o"
+".\obj\main.o"
+".\obj\stm32f0_discovery.o"
+".\obj\stm32f0xx_exti.o"
+".\obj\stm32f0xx_gpio.o"
+".\obj\stm32f0xx_misc.o"
+".\obj\stm32f0xx_rcc.o"
+".\obj\stm32f0xx_syscfg.o"
+".\obj\stm32f0xx_tim.o"
+".\obj\stm32f0xx_dac.o"
+".\obj\startup_stm32f0xx.o"
+".\obj\system_stm32f0xx.o"
+--library_type=microlib --strict --scatter ".\obj\SerialOverAudio.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\obj\SerialOverAudio.map" -o .\obj\SerialOverAudio.axf

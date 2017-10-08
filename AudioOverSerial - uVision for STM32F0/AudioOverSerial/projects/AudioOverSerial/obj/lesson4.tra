@@ -1,0 +1,30 @@
+*** Creating Trace Output File '.\obj\lesson4.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\main4.o"'
+### List of Objects: adding '".\obj\stm32f0xx_it.o"'
+### List of Objects: adding '".\obj\stm32f0_discovery.o"'
+### List of Objects: adding '".\obj\stm32f0xx_exti.o"'
+### List of Objects: adding '".\obj\stm32f0xx_gpio.o"'
+### List of Objects: adding '".\obj\stm32f0xx_misc.o"'
+### List of Objects: adding '".\obj\stm32f0xx_rcc.o"'
+### List of Objects: adding '".\obj\stm32f0xx_syscfg.o"'
+### List of Objects: adding '".\obj\stm32f0xx_tim.o"'
+### List of Objects: adding '".\obj\startup_stm32f0xx.o"'
+### List of Objects: adding '".\obj\system_stm32f0xx.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\obj\main4.o" ".\obj\stm32f0xx_it.o" ".\obj\stm32f0_discovery.o" ".\obj\stm32f0xx_exti.o" ".\obj\stm32f0xx_gpio.o" ".\obj\stm32f0xx_misc.o" ".\obj\stm32f0xx_rcc.o" ".\obj\stm32f0xx_syscfg.o" ".\obj\stm32f0xx_tim.o" ".\obj\startup_stm32f0xx.o" ".\obj\system_stm32f0xx.o" 
+--library_type=microlib --strict --scatter ".\obj\lesson4.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\obj\lesson4.map" -o .\obj\lesson4.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\lesson4.axf'
+### ADS-LD Command File: '.\obj\lesson4.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\lesson4.lnp', Handle=0x00000744
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\lesson4.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

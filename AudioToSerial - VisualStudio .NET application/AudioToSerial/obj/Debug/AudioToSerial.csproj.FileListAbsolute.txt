@@ -1,0 +1,8 @@
+c:\users\eldin-desktop\documents\visual studio 2017\Projects\AudioToSerial\AudioToSerial\bin\Debug\AudioToSerial.exe.config
+c:\users\eldin-desktop\documents\visual studio 2017\Projects\AudioToSerial\AudioToSerial\bin\Debug\AudioToSerial.exe
+c:\users\eldin-desktop\documents\visual studio 2017\Projects\AudioToSerial\AudioToSerial\bin\Debug\AudioToSerial.pdb
+c:\users\eldin-desktop\documents\visual studio 2017\Projects\AudioToSerial\AudioToSerial\bin\Debug\NAudio.dll
+c:\users\eldin-desktop\documents\visual studio 2017\Projects\AudioToSerial\AudioToSerial\bin\Debug\NAudio.xml
+c:\users\eldin-desktop\documents\visual studio 2017\Projects\AudioToSerial\AudioToSerial\obj\Debug\AudioToSerial.csprojResolveAssemblyReference.cache
+c:\users\eldin-desktop\documents\visual studio 2017\Projects\AudioToSerial\AudioToSerial\obj\Debug\AudioToSerial.exe
+c:\users\eldin-desktop\documents\visual studio 2017\Projects\AudioToSerial\AudioToSerial\obj\Debug\AudioToSerial.pdb
