@@ -12,6 +12,8 @@ SoundOverSerial, play sound from your computer to your stm32f0 over usart/serial
 
 ## How to use!
 
+  - Make sure your audio device is set to 48000hz/16-bit as shown here:
+  - ![alt text](https://i.imgur.com/AUbhFpP.png "Logo Title Text 1")
   - Make sure both dll and executable are together
   - Connect your stm32f0 discovery using a serial to usb converter
   - Connect your speaker/speaker out/3.5mm out jack
